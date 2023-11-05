@@ -3,7 +3,7 @@ This is a script which reports targeted instagram accounts and instagram videos 
 Version : 2.0.1
 [![forthebadge Made-With-Python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-# NOT MAINTAINING ANYMORE... I WILL UPLOAD SOURCE CODE AFTER 300 STARS. 
+# NOT MAINTAINING ANYMORE... It doesn't work anymore : )
 
 ### Features
 This is a script which reports targeted instagram account or an instagram video. 
