@@ -65,7 +65,7 @@ def report_profile_attack (OOOO00O0O0O0OOOOO ,O00O000OOO000O0OO ):#line:17
         print_error ("Connection error! (CookieErrorRev)")#line:65
         return #line:66
     if ('"hsi":'not in O00O0000OOO0O00OO .text ):#line:67
-        print_error ("Connection error! (CookieErrorHsi)")#line:68
+        print_error ("Connection error hai lawde!!! (CookieErrorHsi)")#line:68
         return #line:69
     try :#line:70
         OOOOOO000OOOO0O00 =O00O0000OOO0O00OO .text .split ('["LSD",[],{"token":"')[1 ].split ('"},')[0 ]#line:71
@@ -76,7 +76,7 @@ def report_profile_attack (OOOO00O0O0O0OOOOO ,O00O000OOO000O0OO ):#line:17
         O000OO0OOO00000OO =O00O0000OOO0O00OO .text .split ('"server_revision":')[1 ].split (',')[0 ].replace ('"',"")#line:76
         O0O0OOOOOO00O00OO =O00O0000OOO0O00OO .cookies .get_dict ()["datr"]#line:77
     except :#line:78
-        print_error ("Connection error! (CookieParsingError)")#line:79
+        print_error ("Connection error hi lawde!!! (CookieParsingError)")#line:79
         return #line:80
     OOOO0O00O0O0OO000 ={"datr":O0O0OOOOOO00O00OO }#line:81
     O0O00OOO0000O0O00 ={"jazoest":"2723","lsd":OOOOOO000OOOO0O00 ,"instagram_username":OOOO00O0O0O0OOOOO ,"Field241164302734019_iso2_country_code":"TR","Field241164302734019":"Türkiye","support_form_id":"497253480400030","support_form_hidden_fields":"{}","support_form_fact_false_fields":"[]","__user":"0","__a":"1","__dyn":"7xe6Fo4SQ1PyUhxOnFwn84a2i5U4e1Fx-ey8kxx0LxW0DUeUhw5cx60Vo1upE4W0OE2WxO0SobEa81Vrzo5-0jx0Fwww6DwtU6e","__csr":"","__req":"d","__beoa":"0","__pc":"PHASED:DEFAULT","dpr":"1","__rev":O000OO0OOO00000OO ,"__s":"5gbxno:2obi73:56i3vc","__hsi":OO0O0OO00OOOOOO0O ,"__comet_req":"0","__spin_r":OO00O0O0O00OOOOO0 ,"__spin_b":OO00OO000OO000OO0 ,"__spin_t":O00O0O0O0O00O0O00 }#line:82
@@ -86,9 +86,9 @@ def report_profile_attack (OOOO00O0O0O0OOOOO ,O00O000OOO000O0OO ):#line:17
         print_error ("Connection error occurred (FormRequestsError)")#line:86
         return #line:87
     if (O00O0000OOO0O00OO .status_code !=200 ):#line:88
-        print_error ("Connection error occurred (STATUS CODE:",O00O0000OOO0O00OO .status_code ,")")#line:89
+        print_error ("Connection error occurred gend mara bsdk (STATUS CODE:",O00O0000OOO0O00OO .status_code ,")")#line:89
         return #line:90
-    print_success ("Successfully reported!")#line:91
+    print_success ("Successfully reported! Ma chud jaygi ab iski Gaya beta iska account")#line:91
 def report_video_attack (O0O0OO00OOOO00O00 ,O00O0OOOOOO0O0O0O ):#line:92
     O000OOOO0O000O0OO =Session ()#line:93
     if (O00O0OOOOOO0O0O0O !=None ):#line:94
@@ -163,4 +163,4 @@ def report_video_attack (O0O0OO00OOOO00O00 ,O00O0OOOOOO0O0O0O ):#line:92
     if (OOO0OO0O0OOOO00O0 .status_code !=200 ):#line:163
         print_error ("Connection error! (STATUS CODE:",OOO0OO0O0OOOO00O0 .status_code ,")")#line:164
         return #line:165
-    print_success ("Successfully reported!")
+    print_success ("Successfully reported! Ma chud jaygi ab iski Gaya beta iska account")

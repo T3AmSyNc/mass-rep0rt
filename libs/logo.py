@@ -16,11 +16,11 @@ logo = '''
 [[black-bright-background]][[red]] ░   [[green]]        ░  [[blue]]     ░  [[magenta]]          [[cyan]]     ░  ░   [[red]]   ░     [[green]]   ░  ░[[blue]]          [[magenta]]   ░ ░   [[cyan]]  ░     [[yellow]]         [[reset]]
                                                                                                   
 
-                                           [[black-bright-background]][[white]]Codded By Crevil[[reset]]
-                                            [[black]]Version :- 2.01[[reset]]
+                                           [[black-bright-background]][[white]]Codded By losinguh[[reset]]
+                                            [[black]]Version :- 3.01[[reset]]
 
-                                           [[red]]Youtube :- [[blue]]@Crevil[[reset]]
-                                       [[red]]Telegram :- [[blue]]@HackerExploits[[reset]]
+                                           [[red]]Telegram :- [[blue]]@losinguhhh[[reset]]
+                                       [[red]]Instagram:- [[blue]]@losinguh[[reset]]
 '''
 
 def print_logo():
