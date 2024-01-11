@@ -27,8 +27,8 @@ echo " "
 figlet -f Bloody Insta-Hack | lolcat
 
     echo " "
-    echo -e "$Red                                 ⫸ Coded by$Yellow Crevil$Red ⫷\033[0m"
-    echo -e "$Red                               ⫸$Purple t.me/HackerExploits$Red ⫷\033[0m"
+    echo -e "$Red                                 ⫸ Coded by$Yellow ZAIN$Red ⫷\033[0m"
+    echo -e "$Red                               ⫸$Purple t.me/losinguhhh$Red ⫷\033[0m"
 echo " "
 echo -e " $Green     |---------------------------------------------------------------------------------|"
 echo -e " $Green     ||----------------------------$Cyan [features] $Green----------------------------||"
