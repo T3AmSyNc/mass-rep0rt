@@ -3,14 +3,14 @@ This is a script which reports targeted instagram accounts and instagram videos 
 Version : 2.0.1
 [![forthebadge Made-With-Python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-# NOT MAINTAINING ANYMORE... It doesn't work anymore : )
+# WROKING IN 2023 WILL DISCONTINUE FROM AUGUST 2024 : )
 
 ### Features
 This is a script which reports targeted instagram account or an instagram video. 
 Works On
-<a href="https://t.me/hackerExploits"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
-<a href="https://t.me/hackerExploits"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
-<a href="https://t.me/hackerExploits"><img src="https://img.shields.io/badge/-kali%20linux-lightgrey"></a>
+<a href="https://instagram.com/losinguh"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
+<a href="https://instagram.com/losinguh"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+<a href="https://instagram.com/losinguh"><img src="https://img.shields.io/badge/-kali%20linux-lightgrey"></a>
 ```
 [+] Powerful ban tool 
 [+] Uses proxy + username
@@ -22,7 +22,7 @@ Works On
 
 
 
-<a href="https://t.me/crevilbot"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://t.me/losinguhhh"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 ## Requirements
 [Python3 Or Above](https://www.python.org/downloads/)
@@ -69,7 +69,7 @@ No need to install git in linux or termux
 * `sudo bash setup.sh`
 
 ## Stats
-<a href="https://github.com/Crevils/InstaReport"><img src="https://github-readme-stats.vercel.app/api?username=crevils&theme=blue-green"></a>
+<a href="https://github.com/T3AmSyNc/"><img src="https://github-readme-stats.vercel.app/api?username=crevils&theme=blue-green"></a>
 
 <p align="left">
   <a href="">
@@ -89,7 +89,7 @@ No need to install git in linux or termux
 ## Warning:
 #### This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases
 
-<a href="https://t.me/hackerExploits"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://instagram.com/losinguh"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 #####Watch Video Tutorial : 
 <a href="https://youtu.be/MsHJrjeFsNQ"><img src="https://img.shields.io/badge/Video%20Tutorial-red.svg?logo=Youtube"></a>
