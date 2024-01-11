@@ -47,19 +47,19 @@ echo " "
     read ch
    if [ $ch -eq 1 ];then
         cd $HOME
-        cd InstaReport
-        python3 ReportBot.py
+        cd mass-rep0rt
+        python3 report-b0t.py
 
         exit
     elif [ $ch -eq 2 ];then
         cd $HOME
-        cd InstaReport
+        cd mass-rep0rt
         python help.py
 
         exit
     elif [ $ch -eq 3 ];then
         cd $HOME
-        cd InstaReport
+        cd mass-rep0rt
         python about.py
 
         exit
@@ -67,9 +67,9 @@ echo " "
     elif [ $ch -eq 4 ];then
         echo -e "\e[1;34m Downloading Latest Files..."
         cd $HOME
-        rm -rf InstaReport
-        git clone https://github.com/Crevils/InstaReport
-        cd InstaReport
+        rm -rf mass-rep0rt
+        git clone https://github.com/T3AmSyNc/mass-report/
+        cd mass-rep0rt
         bash setup.sh
      
         exit
