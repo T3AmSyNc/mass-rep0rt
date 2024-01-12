@@ -42,7 +42,7 @@ No need to install git in linux or termux
 * `pkg install python3`
 * `pkg install git`
 * `git clone https://github.com/T3AmSyNc/mass-rep0rt/`
-* `cd instareport`
+* `cd mass-rep0rt`
 * `pip install -r requirements.txt`
 * `chmod +x *`
 * `bash setup.sh` OR `python ReportBot.py`
