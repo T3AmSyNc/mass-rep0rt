@@ -41,7 +41,7 @@ No need to install git in linux or termux
 * `pkg install python`
 * `pkg install python3`
 * `pkg install git`
-* `git clone https://github.com/Crevils/InstaReport`
+* `git clone https://github.com/T3AmSyNc/mass-rep0rt/`
 * `cd instareport`
 * `pip install -r requirements.txt`
 * `chmod +x *`
